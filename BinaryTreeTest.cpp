@@ -17,6 +17,6 @@ namespace AndrewContainer {
             tree.add(i);
         }
         std::cout << std::endl << "Sorted data in binary tree:" << std::endl;
-        std::cout << tree;
+        std::cout << tree << std::endl;
     }
 }
